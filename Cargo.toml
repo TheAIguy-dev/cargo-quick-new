@@ -1,0 +1,10 @@
+[package]
+name = "cargo-quick-new"
+version = "0.1.0"
+authors = ["TheAIguy_"]
+edition = "2021"
+description = "A cargo subcommand for quickly creating a new project."
+repository = "https://github.com/TheAIguy-dev/testing"
+license = "MIT"
+
+[dependencies]
