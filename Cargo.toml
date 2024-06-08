@@ -4,7 +4,7 @@ version = "0.1.0"
 authors = ["TheAIguy_"]
 edition = "2021"
 description = "A cargo subcommand for quickly creating a new project."
-repository = "https://github.com/TheAIguy-dev/testing"
+repository = "https://github.com/TheAIguy-dev/cargo-quick-new"
 license = "MIT"
 
 [dependencies]
