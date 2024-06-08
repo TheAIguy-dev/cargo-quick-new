@@ -29,7 +29,6 @@ repository = "https://github.com/TheAIguy-dev/{name}"
 license = "MIT"
 
 [dependencies]
-
 "#
         ),
     )
@@ -66,7 +65,6 @@ SOFTWARE.
         format!("{name}/README.md"),
         format!(
             r#"# {name}
-
 "#
         ),
     )
@@ -76,7 +74,6 @@ SOFTWARE.
         format!("{name}/.gitignore"),
         r#"/target
 Cargo.lock
-
 "#,
     )
     .expect("Failed to write .gitignore");
